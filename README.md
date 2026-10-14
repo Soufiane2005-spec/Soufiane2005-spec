@@ -1,112 +1,131 @@
-<!-- Professional GitHub Profile README | Soufiane Zaakour -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0e7490,100:22d3ee&height=190&section=header&text=Soufiane%20Zaakour&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Cybersecurity&descAlignY=60&animation=fadeIn" alt="Soufiane Zaakour — DevOps, Cloud and Cybersecurity" />
 
-  <h3>Computer Engineering Student · ENSA Khouribga 🇲🇦</h3>
-  <p><strong>Building secure, automated, and reliable infrastructure.</strong></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=220&section=header&text=Soufiane%20Zaakour&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Cybersecurity&descAlignY=60&descSize=17" alt="Soufiane Zaakour — DevOps, Cloud and Cybersecurity" />
 
-  <a href="https://github.com/Soufiane2005-spec"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/soufiane-zaakour-95bb53334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-PFE%20INTERNSHIP-16a34a?style=flat-square" alt="Open to PFE internship opportunities" />
+### ☁️ DevOps &nbsp; • &nbsp; 🛡️ Cybersecurity &nbsp; • &nbsp; ⚙️ Cloud Engineering
+
+<img src="https://img.shields.io/badge/OPEN%20TO-PFE%20INTERNSHIP-22c55e?style=for-the-badge" alt="Open to PFE internship" />
+<img src="https://img.shields.io/badge/LOCATION-MOROCCO-0ea5e9?style=for-the-badge" alt="Morocco" />
+
+<p>
+  <a href="https://github.com/Soufiane2005-spec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/soufiane-zaakour-95bb53334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at ENSA Khouribga**, focused on **DevOps, Cloud Computing, and Cybersecurity**. I enjoy exploring how software, infrastructure, and security come together to deliver dependable systems.
+🎓 I'm **Soufiane Zaakour**, a Computer Engineering student at **ENSA Khouribga, Morocco**.
 
-- ☁️ Exploring **AWS, Infrastructure as Code, and cloud architecture**
-- ⚙️ Exploring **Jenkins, GitHub Actions, Docker, Kubernetes, and automation**
-- 📊 Learning **Prometheus & Grafana** for monitoring and observability
-- 🛡️ Interested in **infrastructure hardening and DevSecOps**
-- 🚀 Building **OpsForge**, a hands-on AWS + DevOps project *(in progress)*
-- 🎯 Seeking a **Projet de Fin d'Études (PFE)** in DevOps, Cloud, or Security
+🔧 I'm focused on learning how to design, automate, deploy and secure reliable systems through **DevOps, cloud infrastructure and cybersecurity**.
 
-### 🧰 Engineering toolbox
+- 🔭 Building hands-on engineering projects to strengthen my portfolio.
+- 🌱 Exploring **CI/CD, infrastructure as code, container orchestration, monitoring and DevSecOps**.
+- 🐧 Interested in **Linux, automation, cloud infrastructure and secure configurations**.
+- 🎯 **Seeking a PFE (final-year internship)** in **DevOps, Cloud Engineering or Cybersecurity**.
 
-> Technologies I use in coursework, labs, personal projects, or am actively learning. Listing a tool here does not imply professional mastery.
+---
+
+<h2 align="center">🧰 Tech Stack & Tools</h2>
 
 <div align="center">
-  <p><strong>☁️ Cloud & Infrastructure as Code</strong></p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux&theme=dark" alt="AWS, Terraform, Linux" />
 
-  <p><strong>🔁 CI/CD & Automation</strong></p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,ansible,bash&theme=dark" alt="Jenkins, GitHub Actions, Git, GitHub, Ansible, Bash" />
+### ☁️ Cloud & Infrastructure
 
-  <p><strong>📦 Containers & Orchestration</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Docker, Kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,linux,ubuntu&theme=dark" alt="AWS Terraform Linux Ubuntu" />
 
-  <p><strong>📈 Monitoring & Observability</strong></p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus, Grafana" />
+### 🔄 CI/CD & Automation
 
-  <p><strong>🔐 Security & Code Quality</strong></p>
-  <img src="https://img.shields.io/badge/DevSecOps-0f172a?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="DevSecOps" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,ansible,bash&theme=dark" alt="Jenkins GitHub Actions Git GitHub Ansible Bash" />
 
-  <p><strong>💻 Languages & Development</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,html,css,mysql,mongodb&theme=dark" alt="Python, Java, C, C++, JavaScript, PHP, HTML, CSS, MySQL, MongoDB" />
+### 📦 Containers & Orchestration
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Docker Kubernetes" />
+
+### 📈 Monitoring & Observability
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus Grafana" />
+
+### 🛡️ Security & Code Quality
+
+<img src="https://img.shields.io/badge/DevSecOps-0f172a?style=for-the-badge&logo=dependabot&logoColor=white" alt="DevSecOps" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+
+### 💻 Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,html,css,mysql,mongodb&theme=dark" alt="Python Java C C++ JavaScript PHP HTML CSS MySQL MongoDB" />
+
+<sub>Tools listed here reflect my technical interests, coursework and learning journey—not a claim of expert proficiency in every tool.</sub>
+
 </div>
 
-<details>
-  <summary><strong>📚 Current learning focus</strong></summary>
-  <br/>
-  <p>Building practical skills across Jenkins pipelines, AWS infrastructure, Terraform, Kubernetes, Prometheus/Grafana monitoring, and DevSecOps scanning. My featured repositories will document which tools I have actually implemented.</p>
-</details>
+---
 
-### 🚀 Featured Engineering Projects
-
-<p align="center">A selection of my hands-on work in <strong>cloud automation, containerization, and DevOps engineering</strong>.</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Cloud Automation</h3>
-      <p align="center"><strong>Python · Security Automation · Cloud Concepts</strong></p>
-      <p>Hands-on exploration of security-focused cloud automation concepts through Python-based workflows and exercises.</p>
-      <p align="center">
-        <a href="https://github.com/Soufiane2005-spec/cloud-automation-project"><img src="https://img.shields.io/badge/Explore_Project-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cloud Automation repository" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🐳 Docker Project</h3>
-      <p align="center"><strong>Docker · Containers · Application Packaging</strong></p>
-      <p>Practical containerization work exploring images, containers, and reproducible application environments.</p>
-      <p align="center">
-        <a href="https://github.com/Soufiane2005-spec/docker-project"><img src="https://img.shields.io/badge/Explore_Project-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Docker repository" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h2 align="center">🚀 Featured Project</h2>
 
 <div align="center">
-  <h3>☁️ OpsForge — AWS + DevOps Engineering</h3>
-  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f59e0b?style=flat-square" alt="In development" />
-  <p><strong>Flagship portfolio project — cloud infrastructure, automated delivery, observability, and security.</strong></p>
-  <p>Planned project areas: AWS, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, and DevSecOps practices. Features will be documented as they are implemented.</p>
-  <p><em>Repository link will be added when the public project is available.</em></p>
+
+### ☁️ Cloud Automation Project
+
+**Python-based exploration of cloud automation and security-oriented workflows.**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Automation-0891B2?style=for-the-badge" alt="Automation" />
+<img src="https://img.shields.io/badge/Security-166534?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
+</p>
+
+<a href="https://github.com/Soufiane2005-spec/cloud-automation-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soufiane2005-spec&repo=cloud-automation-project&theme=tokyonight&hide_border=true" alt="Cloud Automation Project repository card" />
+</a>
+
+<p>
+  <a href="https://github.com/Soufiane2005-spec/cloud-automation-project">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cloud Automation Project" />
+  </a>
+</p>
+
 </div>
 
-> **Project-first portfolio:** These projects show my practical learning. Each repository contains or will be improved with setup instructions, architecture notes, and verifiable results. Work still in development is labeled accordingly.
+---
 
-### 🎯 What I'm working toward
-
-```text
-Code → Build → Test → Scan → Package → Deploy → Monitor
-         Jenkins / CI        Docker / AWS    Prometheus + Grafana
-                    🔐 Security throughout
-```
-
-My goal is to grow into an engineer who can **automate delivery, manage cloud infrastructure, and embed security into every stage of development**.
-
-### 🤝 Let's connect
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <p>Interested in discussing a PFE internship, cloud infrastructure, DevOps, or cybersecurity?</p>
-  <a href="https://www.linkedin.com/in/soufiane-zaakour-95bb53334/"><img src="https://img.shields.io/badge/Contact%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact me on LinkedIn" /></a>
-  <p><sub>Thanks for visiting — always learning, building, and improving.</sub></p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0e7490,100:22d3ee&height=90&section=footer" alt="Footer" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soufiane2005-spec&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soufiane2005-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top repository languages" />
+</div>
+
+---
+
+<h2 align="center">🎯 What I'm Working Toward</h2>
+
+<div align="center">
+
+**Automated delivery** • **Secure infrastructure** • **Cloud engineering** • **Observability**
+
+I'm building practical experience through hands-on projects and looking forward to contributing to a real engineering team during my **PFE internship**.
+
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+Interested in collaborating or discussing **DevOps, Cloud or Cybersecurity PFE opportunities**?
+
+<p>
+  <a href="https://www.linkedin.com/in/soufiane-zaakour-95bb53334/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Soufiane2005-spec"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0f172a&height=110&section=footer" alt="Footer wave" />
+
 </div>
