@@ -57,38 +57,40 @@ I'm a **Computer Engineering student at ENSA Khouribga**, focused on **DevOps, C
   <p>Building practical skills across Jenkins pipelines, AWS infrastructure, Terraform, Kubernetes, Prometheus/Grafana monitoring, and DevSecOps scanning. My featured repositories will document which tools I have actually implemented.</p>
 </details>
 
-### 🚀 Selected projects
+### 🚀 Featured Engineering Projects
+
+<p align="center">A selection of my hands-on work in <strong>cloud automation, containerization, and DevOps engineering</strong>.</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ OpsForge</h3>
-      <p><strong>AWS + DevOps engineering lab</strong></p>
-      <p>Cloud infrastructure, automated deployments, and security-focused engineering workflows.</p>
-      <p><em>🚧 In development — public repository coming soon.</em></p>
+      <h3 align="center">🛡️ Cloud Automation</h3>
+      <p align="center"><strong>Python · Security Automation · Cloud Concepts</strong></p>
+      <p>Hands-on exploration of security-focused cloud automation concepts through Python-based workflows and exercises.</p>
+      <p align="center">
+        <a href="https://github.com/Soufiane2005-spec/cloud-automation-project"><img src="https://img.shields.io/badge/Explore_Project-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cloud Automation repository" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐳 Docker Project</h3>
-      <p><strong>Containerization practice</strong></p>
-      <p>Exploring Docker workflows, images, and application containerization.</p>
-      <a href="https://github.com/Soufiane2005-spec/docker-project">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Cloud Automation</h3>
-      <p><strong>Security-oriented automation</strong></p>
-      <p>Exploring cloud and security automation concepts through hands-on code.</p>
-      <a href="https://github.com/Soufiane2005-spec/cloud-automation-project">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 DevSecOps Pipeline</h3>
-      <p><strong>Next portfolio milestone</strong></p>
-      <p>Planned CI/CD workflow integrating automated quality and security checks.</p>
-      <p><em>📌 Planned — not yet released.</em></p>
+      <h3 align="center">🐳 Docker Project</h3>
+      <p align="center"><strong>Docker · Containers · Application Packaging</strong></p>
+      <p>Practical containerization work exploring images, containers, and reproducible application environments.</p>
+      <p align="center">
+        <a href="https://github.com/Soufiane2005-spec/docker-project"><img src="https://img.shields.io/badge/Explore_Project-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Docker repository" /></a>
+      </p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h3>☁️ OpsForge — AWS + DevOps Engineering</h3>
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f59e0b?style=flat-square" alt="In development" />
+  <p><strong>Flagship portfolio project — cloud infrastructure, automated delivery, observability, and security.</strong></p>
+  <p>Planned project areas: AWS, Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, and DevSecOps practices. Features will be documented as they are implemented.</p>
+  <p><em>Repository link will be added when the public project is available.</em></p>
+</div>
+
+> **Project-first portfolio:** These projects show my practical learning. Each repository contains or will be improved with setup instructions, architecture notes, and verifiable results. Work still in development is labeled accordingly.
 
 ### 🎯 What I'm working toward
 
