@@ -18,21 +18,44 @@
 I'm a **Computer Engineering student at ENSA Khouribga**, focused on **DevOps, Cloud Computing, and Cybersecurity**. I enjoy exploring how software, infrastructure, and security come together to deliver dependable systems.
 
 - ☁️ Exploring **AWS, Infrastructure as Code, and cloud architecture**
-- ⚙️ Practicing **CI/CD, Docker, Linux, and automation**
+- ⚙️ Exploring **Jenkins, GitHub Actions, Docker, Kubernetes, and automation**
+- 📊 Learning **Prometheus & Grafana** for monitoring and observability
 - 🛡️ Interested in **infrastructure hardening and DevSecOps**
 - 🚀 Building **OpsForge**, a hands-on AWS + DevOps project *(in progress)*
 - 🎯 Seeking a **Projet de Fin d'Études (PFE)** in DevOps, Cloud, or Security
 
-### 🧰 Tech stack
+### 🧰 Engineering toolbox
+
+> Technologies I use in coursework, labs, personal projects, or am actively learning. Listing a tool here does not imply professional mastery.
 
 <div align="center">
-  <p><strong>Programming & scripting</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,bash&theme=dark" alt="Python, Java, C, C++, JavaScript, PHP, Bash" />
-  <p><strong>Infrastructure, DevOps & cloud — learning and projects</strong></p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,terraform,git,github,githubactions&theme=dark" alt="Linux, Docker, AWS, Terraform, Git, GitHub, GitHub Actions" />
-  <p><strong>Development & data</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb&theme=dark" alt="HTML, CSS, MySQL, MongoDB" />
+  <p><strong>☁️ Cloud & Infrastructure as Code</strong></p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux&theme=dark" alt="AWS, Terraform, Linux" />
+
+  <p><strong>🔁 CI/CD & Automation</strong></p>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,ansible,bash&theme=dark" alt="Jenkins, GitHub Actions, Git, GitHub, Ansible, Bash" />
+
+  <p><strong>📦 Containers & Orchestration</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Docker, Kubernetes" />
+
+  <p><strong>📈 Monitoring & Observability</strong></p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus, Grafana" />
+
+  <p><strong>🔐 Security & Code Quality</strong></p>
+  <img src="https://img.shields.io/badge/DevSecOps-0f172a?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+
+  <p><strong>💻 Languages & Development</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,html,css,mysql,mongodb&theme=dark" alt="Python, Java, C, C++, JavaScript, PHP, HTML, CSS, MySQL, MongoDB" />
 </div>
+
+<details>
+  <summary><strong>📚 Current learning focus</strong></summary>
+  <br/>
+  <p>Building practical skills across Jenkins pipelines, AWS infrastructure, Terraform, Kubernetes, Prometheus/Grafana monitoring, and DevSecOps scanning. My featured repositories will document which tools I have actually implemented.</p>
+</details>
 
 ### 🚀 Selected projects
 
@@ -71,6 +94,7 @@ I'm a **Computer Engineering student at ENSA Khouribga**, focused on **DevOps, C
 
 ```text
 Code → Build → Test → Scan → Package → Deploy → Monitor
+         Jenkins / CI        Docker / AWS    Prometheus + Grafana
                     🔐 Security throughout
 ```
 
